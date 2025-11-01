@@ -1,2 +1,2 @@
 # Python-Class-
-Learnig Python With Devoloper Bhaiya
+Learnig Python With developer Bhaiya
